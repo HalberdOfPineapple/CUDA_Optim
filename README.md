@@ -1,1 +1,1 @@
-# CUDA Kernel Optimization Notes
+# CUDA Kernel Optimization
