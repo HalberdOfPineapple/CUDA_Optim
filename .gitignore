@@ -1,0 +1,23 @@
+build/
+cmake-build-debug/
+cmake-build-release/
+.idea/
+
+# VSCode, but include settings.json
+.vscode/*
+!.vscode/launch.json
+!.vscode/settings.json
+
+# binaries
+cuBLAS_sgemm
+simplest
+
+# benchmark results
+benchmark_results/
+
+SGEMM_CUDA/
+
+Anthropic GEMM Project Notes.md
+Anthropic GEMM Tutorial.md
+GEMM Optimization Tutorial Notes.md
+Medium Reduction Tutorial.md
